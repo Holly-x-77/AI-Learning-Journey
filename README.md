@@ -4,10 +4,10 @@
 > 我是冯景涛，西南石油大学工程管理专业本科生。本仓库记录了我从零开始，极速突围AI应用开发的全过程代码与项目实战。
 
 ## 📌 学习历程（时间轴）
-*   **Day 1-3：极速筑基**：从零掌握 Python 核心语法（列表、字典、函数、异常处理、文件读写）。
-*   **Day 4-5：API 接入与工程化**：跑通 DeepSeek API，实现多轮对话与日志持久化记录。
-*   **Day 6-8：RAG 知识库实战**：掌握 LangChain 框架，引入 ChromaDB 向量数据库与 HuggingFace Embeddings。
-*   **Day 9-10：Agent 智能体与数字员工**：深入 ReAct 架构，实现 Tool Calling（工具调用）与业务自动化。
+*   **Day 1-3周：极速筑基**：从零掌握 Python 核心语法（列表、字典、函数、异常处理、文件读写）。
+*   **Day 4-5周：API 接入与工程化**：跑通 DeepSeek API，实现多轮对话与日志持久化记录。
+*   **Day 6-8周：RAG 知识库实战**：掌握 LangChain 框架，引入 ChromaDB 向量数据库与 HuggingFace Embeddings。
+*   **Day 9-10周：Agent 智能体与数字员工**：深入 ReAct 架构，实现 Tool Calling（工具调用）与业务自动化。
 
 ## 📂 目录结构
 *   `01_Python基础/`：Python 核心语法与逻辑练习。
